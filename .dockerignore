@@ -1,0 +1,14 @@
+.git
+.vscode
+agent-transcripts
+terminals
+*.md
+CAHIER_DES_CHARGES.md
+start-mysql.bat
+db_recovery
+resasalle_rdc (1).sql
+resasalle_rdc (2).sql
+resasalle_rdc (3).sql
+.env
+.env.*
+*.log

@@ -1,0 +1,4 @@
+# Autoriser lecture des médias chat (images, vidéos, audio)
+<IfModule mod_authz_core.c>
+  Require all granted
+</IfModule>

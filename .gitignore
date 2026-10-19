@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.*.local
+.vscode/
+*.log
+Thumbs.db
+desktop.ini
+db_recovery/
+resasalle_rdc*.sql
+*.sql.bak
